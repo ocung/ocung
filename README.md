@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Rosul, a game designer currently developing my skills as a Unity programmer. I enjoy turning ideas into interactive and enjoyable gameplay experiences.
 
 <!--
 **ocung/ocung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
